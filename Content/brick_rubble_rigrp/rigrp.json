@@ -1,0 +1,1756 @@
+{
+  "pack": {
+    "_id": "rubble",
+    "name": "Rubble"
+  },
+  "name": "Construction rubble assembly",
+  "tags": [
+    "rubble",
+    "man made",
+    "broken",
+    "construction",
+    "debris",
+    "bricks",
+    "archviz"
+  ],
+  "brushes": [
+    {
+      "contentLength": 67133536,
+      "uri": "Aset_bricks_rubble_M_rigrp_Brush_001.tif"
+    },
+    {
+      "contentLength": 67133716,
+      "uri": "Aset_bricks_rubble_M_rigrp_Brush_002.tif"
+    },
+    {
+      "contentLength": 67134132,
+      "uri": "Aset_bricks_rubble_M_rigrp_Brush_003.tif"
+    },
+    {
+      "contentLength": 67133524,
+      "uri": "Aset_bricks_rubble_M_rigrp_Brush_004.tif"
+    },
+    {
+      "contentLength": 67134060,
+      "uri": "Aset_bricks_rubble_M_rigrp_Brush_005.tif"
+    },
+    {
+      "contentLength": 67133692,
+      "uri": "Aset_bricks_rubble_M_rigrp_Brush_006.tif"
+    },
+    {
+      "contentLength": 67133756,
+      "uri": "Aset_bricks_rubble_M_rigrp_Brush_007.tif"
+    },
+    {
+      "contentLength": 67133608,
+      "uri": "Aset_bricks_rubble_M_rigrp_Brush_008.tif"
+    }
+  ],
+  "previews": {
+    "images": [
+      {
+        "contentLength": 984378,
+        "resolution": "1167x400",
+        "uri": "rigrp_Thumb_HighPoly.png",
+        "tags": [
+          "thumb",
+          "highpoly",
+          "highpoly"
+        ]
+      },
+      {
+        "contentLength": 3494720,
+        "resolution": "2334x800",
+        "uri": "rigrp_Thumb_HighPoly_Retina.png",
+        "tags": [
+          "preview",
+          "retina"
+        ]
+      },
+      {
+        "contentLength": 1842,
+        "resolution": "70x24",
+        "uri": "bH1oV62OeJR8aZJ8bHJbT5N7Z3ZkVl5NQqiRd39rX6CGb1pLQbqdhZhyX5uHdpOAb457a5iCcKWPeo92ZIh3aJ6Me6GJdZV7aHhpXYhyYY1uWJWFdXRQPG5eUYFzZoFuX6GDb6qXg4BnVYZiT6WSgXxYRndiUlM5KqF8ZY1/cZtxWJeLf6yTfbKeiWVTRVhMQm1GNbuokmI/LDIkGnFXREw+NGBIOpFlUYNfRLqUd76zohsUD7GIZrl4X8Cfgt7WyFrOFmcAAAAYdFJOUwD+VRgo4WIL/oy5PdZvj6pEa7Ho6MfW6kp6Y7wAAAPwSURBVDjLpVTXkttGECR5DGA48rI2L7BY5ByIzHzJ//9Dxsl2SbZ1sqs0D/uywEx3b08PBj+v6cPdbPCLdXuzGb6+jn6xy/i438t0eHczH//vf2bjq68k5svBaL78IDKeBGnTRdqQysV33/2U4+3k9GU+G8zf3k6b4eXyNB+NH7uma05RRKtDMxrcXC8/5qzv79efN7pSulwr5tfVKU8vl+HFFTLY7ZRkHwUuPyiJuZhY8Zfr5bUQer66+qzLo6LkbhhuLV99v7y/u3HtFwDtu7PZwNJREiXxq2N06mLb1s3z/Id4ZrN1ctiZqVS9kNU+KXRH1dI0LeguaRJ7uwUyMk3/GESNYHbUNOZquvx3m/VE1IdDkpjYC7dZZiADaJTqjEprZwqj9vX87TWQMjCDgxWZzTGGIbu7m06/BzXe+NQQiqIc2bYfrO3NPUUE8LAUFUWIVcf98ZznRNMCqu1eermsGEKu+lJO1t8YrbTY2Gb1rkYu5vrZjGSsSU0FqooxRojbh8PuZacwrAdRYL287A5HkyFI0Cn3m9X0T7mvIULI4HpW18NUP56JF1Zm5GOWDlVXg4YRWnFaWTpmDta7AFl1cpRB78pLcLJpYd//odICIm6oIHN3L/LVUXbsuYU9aM3XZJ6n2ODcokMXIZ20Ou3VodQfDnMpZS4dnRK/aO8+zDqB7XuvqIr1Q+UCOz5UIitLnmrA5VjKbNvLL1QEIeGaBqMmkHtfns9N0p08DFUdEqo+jQe3Ngce0kuJQwwJIVZVH2pcaFBYyEA022ZOXSPsxNHeR8g0oaEHQXCsEuVYFLH0ARFe+zSYPTpWSBBk0JOuwd3Ul6YVU8fJELLt7XPLDaK6bNedg7PZ1/58kmYTt5XFMs9yoOoIqD70D76+Fxp1bOipwKBvkRL5hIVOVmKdseffWs7ynKrJLumS3hVW1Zl+jwxAF3GswozVjuo9fV2F28UX3YHMBp6bwgONnw0uuAqQbYmWEEAxKosq6ar9XrhaEmhdp0OECdYRAhCkmEz/Wqqb9UJQe+uVJCsdo8W9M1CPRgBcEoOQIvQ0XJbEVakKeFzZiANGqOCeG766fwu2m40l+hkGBAbhEPACGh7AAAgGCmJwTEqsMtGbwbZbL+MAImqUzx55mP4zdB4nliV0avedgEdICIDRPyrg2AAAAaD3ZWch35ZhxgvCe6e37d34Rxk4WkwmEyAc4XwsQw/d7qE4jPTDVYp03wu9MOQhab2e1UVdzT8LsdlsNr5dfOSUQzGlGsaapqlQ07CANGYCMYxArzxjq8386r/C+Wq8vBlNr0fL/rgeTed9reebzWL1sFrdP6wW/c03IL8Df/Cnucy+gHIAAAAASUVORK5CYII=",
+        "tags": [
+          "thumb",
+          "highpoly",
+          "tiny"
+        ]
+      },
+      {
+        "contentLength": 202319,
+        "resolution": "1167x400",
+        "uri": "rigrp_Thumb_HighPoly_thumb.jpg",
+        "tags": [
+          "thumb",
+          "highpoly",
+          "highpoly",
+          "jpeg"
+        ]
+      },
+      {
+        "contentLength": 645603,
+        "resolution": "2334x800",
+        "uri": "rigrp_Thumb_HighPoly_Retina_preview.jpg",
+        "tags": [
+          "preview",
+          "retina",
+          "jpeg"
+        ]
+      },
+      {
+        "contentLength": 645416,
+        "resolution": "2334x800",
+        "uri": "rigrp_Thumb_HighPoly_Retina_thumb_retina.jpg",
+        "tags": [
+          "thumb",
+          "retina",
+          "jpeg"
+        ]
+      },
+      {
+        "contentLength": 524860,
+        "resolution": "2101x720",
+        "uri": "rigrp_Thumb_HighPoly_Retina_sp.jpg",
+        "tags": [
+          "jpeg",
+          "sidepanel"
+        ]
+      }
+    ],
+    "relativeSize": "2x1"
+  },
+  "environment": {
+    "biome": "mediterranean-forest",
+    "region": "Oceania"
+  },
+  "json": {
+    "contentLength": 40451,
+    "uri": "rigrp.json"
+  },
+  "points": 4,
+  "meta": [
+    {
+      "key": "length",
+      "name": "Length",
+      "value": "0.88m"
+    },
+    {
+      "key": "width",
+      "name": "Width",
+      "value": "0.6m"
+    },
+    {
+      "key": "height",
+      "name": "Height",
+      "value": "0.16m"
+    },
+    {
+      "key": "texelDensity",
+      "name": "Texel Density",
+      "value": "47 px/m"
+    },
+    {
+      "key": "assembly",
+      "name": "Assembly",
+      "value": "True"
+    },
+    {
+      "key": "color",
+      "name": "Color",
+      "value": "Red"
+    },
+    {
+      "key": "iteration",
+      "name": "Iteration Number",
+      "value": "%%iteration%%"
+    },
+    {
+      "key": "set",
+      "name": "Set Toggle",
+      "value": "False"
+    },
+    {
+      "key": "setname",
+      "name": "Set Name",
+      "value": "%%setname%%"
+    },
+    {
+      "key": "points",
+      "name": "Points",
+      "value": 6
+    },
+    {
+      "key": "isScaleFixed",
+      "name": "Is scale fixed",
+      "value": "true"
+    }
+  ],
+  "categories": [
+    "3d",
+    "brick",
+    "rubble"
+  ],
+  "components": [
+    {
+      "minIntensity": 49,
+      "name": "Normal",
+      "colorSpace": "Linear",
+      "maxIntensity": 215,
+      "type": "normal",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 271952763,
+                  "uri": "Aset_bricks_rubble_M_rigrp_8K_Normal_LOD0.exr",
+                  "lodType": "lod",
+                  "tris": 32213
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 64376801,
+                  "uri": "Aset_bricks_rubble_M_rigrp_8K_Normal_LOD0.jpg",
+                  "lodType": "lod",
+                  "tris": 32213
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 273839136,
+                  "uri": "Aset_bricks_rubble_M_rigrp_8K_Normal_LOD1.exr",
+                  "lodType": "lod",
+                  "tris": 24159
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 54516705,
+                  "uri": "Aset_bricks_rubble_M_rigrp_8K_Normal_LOD1.jpg",
+                  "lodType": "lod",
+                  "tris": 24159
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 274068163,
+                  "uri": "Aset_bricks_rubble_M_rigrp_8K_Normal_LOD2.exr",
+                  "lodType": "lod",
+                  "tris": 18118
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 54977495,
+                  "uri": "Aset_bricks_rubble_M_rigrp_8K_Normal_LOD2.jpg",
+                  "lodType": "lod",
+                  "tris": 18118
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 274785238,
+                  "uri": "Aset_bricks_rubble_M_rigrp_8K_Normal_LOD3.exr",
+                  "lodType": "lod",
+                  "tris": 13588
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 55541088,
+                  "uri": "Aset_bricks_rubble_M_rigrp_8K_Normal_LOD3.jpg",
+                  "lodType": "lod",
+                  "tris": 13588
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 275728396,
+                  "uri": "Aset_bricks_rubble_M_rigrp_8K_Normal_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 6793
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 56759664,
+                  "uri": "Aset_bricks_rubble_M_rigrp_8K_Normal_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 6793
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 277109103,
+                  "uri": "Aset_bricks_rubble_M_rigrp_8K_Normal_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 3396
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 57555424,
+                  "uri": "Aset_bricks_rubble_M_rigrp_8K_Normal_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 3396
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 150826453,
+                  "uri": "Aset_bricks_rubble_M_rigrp_4K_Normal_LOD0.exr",
+                  "lodType": "lod",
+                  "tris": 32213
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 22143743,
+                  "uri": "Aset_bricks_rubble_M_rigrp_4K_Normal_LOD0.jpg",
+                  "lodType": "lod",
+                  "tris": 32213
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 159078677,
+                  "uri": "Aset_bricks_rubble_M_rigrp_4K_Normal_LOD1.exr",
+                  "lodType": "lod",
+                  "tris": 24159
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 21275825,
+                  "uri": "Aset_bricks_rubble_M_rigrp_4K_Normal_LOD1.jpg",
+                  "lodType": "lod",
+                  "tris": 24159
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 159123919,
+                  "uri": "Aset_bricks_rubble_M_rigrp_4K_Normal_LOD2.exr",
+                  "lodType": "lod",
+                  "tris": 18118
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 21278653,
+                  "uri": "Aset_bricks_rubble_M_rigrp_4K_Normal_LOD2.jpg",
+                  "lodType": "lod",
+                  "tris": 18118
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 159294571,
+                  "uri": "Aset_bricks_rubble_M_rigrp_4K_Normal_LOD3.exr",
+                  "lodType": "lod",
+                  "tris": 13588
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 21279882,
+                  "uri": "Aset_bricks_rubble_M_rigrp_4K_Normal_LOD3.jpg",
+                  "lodType": "lod",
+                  "tris": 13588
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 159359039,
+                  "uri": "Aset_bricks_rubble_M_rigrp_4K_Normal_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 6793
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 21241632,
+                  "uri": "Aset_bricks_rubble_M_rigrp_4K_Normal_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 6793
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 159571083,
+                  "uri": "Aset_bricks_rubble_M_rigrp_4K_Normal_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 3396
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 21190121,
+                  "uri": "Aset_bricks_rubble_M_rigrp_4K_Normal_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 3396
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 40286155,
+                  "uri": "Aset_bricks_rubble_M_rigrp_2K_Normal_LOD0.exr",
+                  "lodType": "lod",
+                  "tris": 32213
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 6351178,
+                  "uri": "Aset_bricks_rubble_M_rigrp_2K_Normal_LOD0.jpg",
+                  "lodType": "lod",
+                  "tris": 32213
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 42506685,
+                  "uri": "Aset_bricks_rubble_M_rigrp_2K_Normal_LOD1.exr",
+                  "lodType": "lod",
+                  "tris": 24159
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 6313094,
+                  "uri": "Aset_bricks_rubble_M_rigrp_2K_Normal_LOD1.jpg",
+                  "lodType": "lod",
+                  "tris": 24159
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 42517560,
+                  "uri": "Aset_bricks_rubble_M_rigrp_2K_Normal_LOD2.exr",
+                  "lodType": "lod",
+                  "tris": 18118
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 6314440,
+                  "uri": "Aset_bricks_rubble_M_rigrp_2K_Normal_LOD2.jpg",
+                  "lodType": "lod",
+                  "tris": 18118
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 42555315,
+                  "uri": "Aset_bricks_rubble_M_rigrp_2K_Normal_LOD3.exr",
+                  "lodType": "lod",
+                  "tris": 13588
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 6316392,
+                  "uri": "Aset_bricks_rubble_M_rigrp_2K_Normal_LOD3.jpg",
+                  "lodType": "lod",
+                  "tris": 13588
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 42585075,
+                  "uri": "Aset_bricks_rubble_M_rigrp_2K_Normal_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 6793
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 6309225,
+                  "uri": "Aset_bricks_rubble_M_rigrp_2K_Normal_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 6793
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 42640215,
+                  "uri": "Aset_bricks_rubble_M_rigrp_2K_Normal_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 3396
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 6298517,
+                  "uri": "Aset_bricks_rubble_M_rigrp_2K_Normal_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 3396
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 10879483,
+                  "uri": "Aset_bricks_rubble_M_rigrp_1K_Normal_LOD0.exr",
+                  "lodType": "lod",
+                  "tris": 32213
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 1743818,
+                  "uri": "Aset_bricks_rubble_M_rigrp_1K_Normal_LOD0.jpg",
+                  "lodType": "lod",
+                  "tris": 32213
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 11447146,
+                  "uri": "Aset_bricks_rubble_M_rigrp_1K_Normal_LOD1.exr",
+                  "lodType": "lod",
+                  "tris": 24159
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 1734924,
+                  "uri": "Aset_bricks_rubble_M_rigrp_1K_Normal_LOD1.jpg",
+                  "lodType": "lod",
+                  "tris": 24159
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 11451713,
+                  "uri": "Aset_bricks_rubble_M_rigrp_1K_Normal_LOD2.exr",
+                  "lodType": "lod",
+                  "tris": 18118
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 1736851,
+                  "uri": "Aset_bricks_rubble_M_rigrp_1K_Normal_LOD2.jpg",
+                  "lodType": "lod",
+                  "tris": 18118
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 11460455,
+                  "uri": "Aset_bricks_rubble_M_rigrp_1K_Normal_LOD3.exr",
+                  "lodType": "lod",
+                  "tris": 13588
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 1740099,
+                  "uri": "Aset_bricks_rubble_M_rigrp_1K_Normal_LOD3.jpg",
+                  "lodType": "lod",
+                  "tris": 13588
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 11471303,
+                  "uri": "Aset_bricks_rubble_M_rigrp_1K_Normal_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 6793
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 1742888,
+                  "uri": "Aset_bricks_rubble_M_rigrp_1K_Normal_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 6793
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 11486329,
+                  "uri": "Aset_bricks_rubble_M_rigrp_1K_Normal_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 3396
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 1743518,
+                  "uri": "Aset_bricks_rubble_M_rigrp_1K_Normal_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 3396
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#8181EF"
+    },
+    {
+      "minIntensity": 0,
+      "name": "Bump",
+      "colorSpace": "Linear",
+      "maxIntensity": 225,
+      "type": "bump",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 83655108,
+                  "bitDepth": 32,
+                  "uri": "Aset_bricks_rubble_M_rigrp_8K_Bump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 15439179,
+                  "bitDepth": 8,
+                  "uri": "Aset_bricks_rubble_M_rigrp_8K_Bump.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 51284355,
+                  "bitDepth": 32,
+                  "uri": "Aset_bricks_rubble_M_rigrp_4K_Bump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 5798990,
+                  "bitDepth": 8,
+                  "uri": "Aset_bricks_rubble_M_rigrp_4K_Bump.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 14339941,
+                  "bitDepth": 32,
+                  "uri": "Aset_bricks_rubble_M_rigrp_2K_Bump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 2012389,
+                  "bitDepth": 8,
+                  "uri": "Aset_bricks_rubble_M_rigrp_2K_Bump.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 3913379,
+                  "bitDepth": 32,
+                  "uri": "Aset_bricks_rubble_M_rigrp_1K_Bump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 651751,
+                  "bitDepth": 8,
+                  "uri": "Aset_bricks_rubble_M_rigrp_1K_Bump.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#818181"
+    },
+    {
+      "minIntensity": 0,
+      "name": "Gloss",
+      "colorSpace": "Linear",
+      "maxIntensity": 57,
+      "type": "gloss",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 95804651,
+                  "bitDepth": 32,
+                  "uri": "Aset_bricks_rubble_M_rigrp_8K_Gloss.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 18687793,
+                  "bitDepth": 8,
+                  "uri": "Aset_bricks_rubble_M_rigrp_8K_Gloss.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 53198063,
+                  "bitDepth": 32,
+                  "uri": "Aset_bricks_rubble_M_rigrp_4K_Gloss.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 5646467,
+                  "bitDepth": 8,
+                  "uri": "Aset_bricks_rubble_M_rigrp_4K_Gloss.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 14518235,
+                  "bitDepth": 32,
+                  "uri": "Aset_bricks_rubble_M_rigrp_2K_Gloss.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 1548930,
+                  "bitDepth": 8,
+                  "uri": "Aset_bricks_rubble_M_rigrp_2K_Gloss.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 3916634,
+                  "bitDepth": 32,
+                  "uri": "Aset_bricks_rubble_M_rigrp_1K_Gloss.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 439016,
+                  "bitDepth": 8,
+                  "uri": "Aset_bricks_rubble_M_rigrp_1K_Gloss.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#1E1E1E"
+    },
+    {
+      "minIntensity": 97,
+      "name": "Displacement",
+      "colorSpace": "Linear",
+      "maxIntensity": 170,
+      "type": "displacement",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 59418277,
+                  "bitDepth": 32,
+                  "uri": "Aset_bricks_rubble_M_rigrp_8K_Displacement.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 9489255,
+                  "bitDepth": 8,
+                  "uri": "Aset_bricks_rubble_M_rigrp_8K_Displacement.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 22085105,
+                  "bitDepth": 32,
+                  "uri": "Aset_bricks_rubble_M_rigrp_4K_Displacement.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 2932733,
+                  "bitDepth": 8,
+                  "uri": "Aset_bricks_rubble_M_rigrp_4K_Displacement.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 6942342,
+                  "bitDepth": 32,
+                  "uri": "Aset_bricks_rubble_M_rigrp_2K_Displacement.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 935674,
+                  "bitDepth": 8,
+                  "uri": "Aset_bricks_rubble_M_rigrp_2K_Displacement.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 2228129,
+                  "bitDepth": 32,
+                  "uri": "Aset_bricks_rubble_M_rigrp_1K_Displacement.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 330353,
+                  "bitDepth": 8,
+                  "uri": "Aset_bricks_rubble_M_rigrp_1K_Displacement.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#828282"
+    },
+    {
+      "minIntensity": 197,
+      "name": "Roughness",
+      "colorSpace": "Linear",
+      "maxIntensity": 255,
+      "type": "roughness",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 64699555,
+                  "bitDepth": 32,
+                  "uri": "Aset_bricks_rubble_M_rigrp_8K_Roughness.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 17887238,
+                  "bitDepth": 8,
+                  "uri": "Aset_bricks_rubble_M_rigrp_8K_Roughness.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 48530844,
+                  "bitDepth": 32,
+                  "uri": "Aset_bricks_rubble_M_rigrp_4K_Roughness.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 5428582,
+                  "bitDepth": 8,
+                  "uri": "Aset_bricks_rubble_M_rigrp_4K_Roughness.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 13305631,
+                  "bitDepth": 32,
+                  "uri": "Aset_bricks_rubble_M_rigrp_2K_Roughness.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 1494640,
+                  "bitDepth": 8,
+                  "uri": "Aset_bricks_rubble_M_rigrp_2K_Roughness.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 3603258,
+                  "bitDepth": 32,
+                  "uri": "Aset_bricks_rubble_M_rigrp_1K_Roughness.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 424886,
+                  "bitDepth": 8,
+                  "uri": "Aset_bricks_rubble_M_rigrp_1K_Roughness.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#E2E2E2"
+    },
+    {
+      "minIntensity": 0,
+      "name": "Cavity",
+      "colorSpace": "sRGB",
+      "maxIntensity": 255,
+      "type": "cavity",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 93617583,
+                  "bitDepth": 32,
+                  "uri": "Aset_bricks_rubble_M_rigrp_8K_Cavity.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 30091727,
+                  "bitDepth": 8,
+                  "uri": "Aset_bricks_rubble_M_rigrp_8K_Cavity.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 52547957,
+                  "bitDepth": 32,
+                  "uri": "Aset_bricks_rubble_M_rigrp_4K_Cavity.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 8743390,
+                  "bitDepth": 8,
+                  "uri": "Aset_bricks_rubble_M_rigrp_4K_Cavity.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 14305591,
+                  "bitDepth": 32,
+                  "uri": "Aset_bricks_rubble_M_rigrp_2K_Cavity.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 2335188,
+                  "bitDepth": 8,
+                  "uri": "Aset_bricks_rubble_M_rigrp_2K_Cavity.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 3856785,
+                  "bitDepth": 32,
+                  "uri": "Aset_bricks_rubble_M_rigrp_1K_Cavity.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 653058,
+                  "bitDepth": 8,
+                  "uri": "Aset_bricks_rubble_M_rigrp_1K_Cavity.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#CBCBCB"
+    },
+    {
+      "minIntensity": 0,
+      "name": "Specular",
+      "colorSpace": "sRGB",
+      "maxIntensity": 7,
+      "type": "specular",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 303096858,
+                  "bitDepth": 16,
+                  "uri": "Aset_bricks_rubble_M_rigrp_8K_Specular.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 17530904,
+                  "bitDepth": 8,
+                  "uri": "Aset_bricks_rubble_M_rigrp_8K_Specular.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 148406607,
+                  "bitDepth": 16,
+                  "uri": "Aset_bricks_rubble_M_rigrp_4K_Specular.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 5406262,
+                  "bitDepth": 8,
+                  "uri": "Aset_bricks_rubble_M_rigrp_4K_Specular.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 38182575,
+                  "bitDepth": 16,
+                  "uri": "Aset_bricks_rubble_M_rigrp_2K_Specular.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 1441361,
+                  "bitDepth": 8,
+                  "uri": "Aset_bricks_rubble_M_rigrp_2K_Specular.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 9820130,
+                  "bitDepth": 16,
+                  "uri": "Aset_bricks_rubble_M_rigrp_1K_Specular.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 398238,
+                  "bitDepth": 8,
+                  "uri": "Aset_bricks_rubble_M_rigrp_1K_Specular.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#030303"
+    },
+    {
+      "minIntensity": 93,
+      "name": "Normalbump",
+      "colorSpace": "sRGB",
+      "maxIntensity": 192,
+      "type": "normalbump",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 254148451,
+                  "bitDepth": 16,
+                  "uri": "Aset_bricks_rubble_M_rigrp_8K_NormalBump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 41490985,
+                  "bitDepth": 8,
+                  "uri": "Aset_bricks_rubble_M_rigrp_8K_NormalBump.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 135205670,
+                  "bitDepth": 16,
+                  "uri": "Aset_bricks_rubble_M_rigrp_4K_NormalBump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 14493488,
+                  "bitDepth": 8,
+                  "uri": "Aset_bricks_rubble_M_rigrp_4K_NormalBump.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 36739371,
+                  "bitDepth": 16,
+                  "uri": "Aset_bricks_rubble_M_rigrp_2K_NormalBump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 4323068,
+                  "bitDepth": 8,
+                  "uri": "Aset_bricks_rubble_M_rigrp_2K_NormalBump.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 10048326,
+                  "bitDepth": 16,
+                  "uri": "Aset_bricks_rubble_M_rigrp_1K_NormalBump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 1162924,
+                  "bitDepth": 8,
+                  "uri": "Aset_bricks_rubble_M_rigrp_1K_NormalBump.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#8181FF"
+    },
+    {
+      "minIntensity": 0,
+      "name": "Albedo",
+      "colorSpace": "sRGB",
+      "maxIntensity": 108,
+      "type": "albedo",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 339798963,
+                  "bitDepth": 16,
+                  "uri": "Aset_bricks_rubble_M_rigrp_8K_Albedo.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 44113443,
+                  "bitDepth": 8,
+                  "uri": "Aset_bricks_rubble_M_rigrp_8K_Albedo.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 309672090,
+                  "uri": "Aset_bricks_rubble_M_rigrp_8K_Albedo_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 6793
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 36758839,
+                  "uri": "Aset_bricks_rubble_M_rigrp_8K_Albedo_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 6793
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 309481377,
+                  "uri": "Aset_bricks_rubble_M_rigrp_8K_Albedo_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 3396
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 37008653,
+                  "uri": "Aset_bricks_rubble_M_rigrp_8K_Albedo_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 3396
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 156497858,
+                  "bitDepth": 16,
+                  "uri": "Aset_bricks_rubble_M_rigrp_4K_Albedo.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 14437330,
+                  "bitDepth": 8,
+                  "uri": "Aset_bricks_rubble_M_rigrp_4K_Albedo.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 164820412,
+                  "uri": "Aset_bricks_rubble_M_rigrp_4K_Albedo_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 6793
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 13484259,
+                  "uri": "Aset_bricks_rubble_M_rigrp_4K_Albedo_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 6793
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 164768434,
+                  "uri": "Aset_bricks_rubble_M_rigrp_4K_Albedo_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 3396
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 13460105,
+                  "uri": "Aset_bricks_rubble_M_rigrp_4K_Albedo_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 3396
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 41342056,
+                  "bitDepth": 16,
+                  "uri": "Aset_bricks_rubble_M_rigrp_2K_Albedo.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 4112779,
+                  "bitDepth": 8,
+                  "uri": "Aset_bricks_rubble_M_rigrp_2K_Albedo.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 43520680,
+                  "uri": "Aset_bricks_rubble_M_rigrp_2K_Albedo_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 6793
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 3999224,
+                  "uri": "Aset_bricks_rubble_M_rigrp_2K_Albedo_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 6793
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 43511588,
+                  "uri": "Aset_bricks_rubble_M_rigrp_2K_Albedo_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 3396
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 3994012,
+                  "uri": "Aset_bricks_rubble_M_rigrp_2K_Albedo_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 3396
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 11171450,
+                  "bitDepth": 16,
+                  "uri": "Aset_bricks_rubble_M_rigrp_1K_Albedo.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 1152623,
+                  "bitDepth": 8,
+                  "uri": "Aset_bricks_rubble_M_rigrp_1K_Albedo.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 11683486,
+                  "uri": "Aset_bricks_rubble_M_rigrp_1K_Albedo_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 6793
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 1115642,
+                  "uri": "Aset_bricks_rubble_M_rigrp_1K_Albedo_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 6793
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 11681631,
+                  "uri": "Aset_bricks_rubble_M_rigrp_1K_Albedo_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 3396
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 1114484,
+                  "uri": "Aset_bricks_rubble_M_rigrp_1K_Albedo_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 3396
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#2F1D13"
+    }
+  ],
+  "references": [],
+  "referencePreviews": {
+    "models": [
+      {
+        "mimeType": "application/x-abc",
+        "contentLength": 1993476,
+        "type": "lod",
+        "uri": ""
+      },
+      {
+        "mimeType": "application/x-fbx",
+        "contentLength": 910592,
+        "type": "lod",
+        "uri": ""
+      },
+      {
+        "mimeType": "application/x-obj",
+        "contentLength": 4925918,
+        "type": "lod",
+        "uri": ""
+      },
+      {
+        "mimeType": "application/x-abc",
+        "contentLength": 2654752,
+        "type": "lod",
+        "uri": ""
+      },
+      {
+        "mimeType": "application/x-fbx",
+        "contentLength": 1188848,
+        "type": "lod",
+        "uri": ""
+      },
+      {
+        "mimeType": "application/x-obj",
+        "contentLength": 6607811,
+        "type": "lod",
+        "uri": ""
+      }
+    ],
+    "maps": [
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 1743818,
+        "type": "normal",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 1734924,
+        "type": "normal",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 651751,
+        "type": "bump",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 439016,
+        "type": "gloss",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 330353,
+        "type": "displacement",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 424886,
+        "type": "roughness",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 653058,
+        "type": "cavity",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 398238,
+        "type": "specular",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 1162924,
+        "type": "normalbump",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 1152623,
+        "type": "albedo",
+        "uri": ""
+      }
+    ]
+  },
+  "properties": [
+    {
+      "key": "size",
+      "value": "medium"
+    },
+    {
+      "key": "mesh type",
+      "value": "open"
+    }
+  ],
+  "averageColor": "#2F1D13",
+  "meshes": [
+    {
+      "type": "lod",
+      "uris": [
+        {
+          "mimeType": "application/x-abc",
+          "contentLength": 1124644,
+          "uri": "Aset_bricks_rubble_M_rigrp_LOD3.abc"
+        },
+        {
+          "mimeType": "application/x-fbx",
+          "contentLength": 528880,
+          "uri": "Aset_bricks_rubble_M_rigrp_LOD3.fbx"
+        },
+        {
+          "mimeType": "application/x-obj",
+          "contentLength": 2749688,
+          "uri": "Aset_bricks_rubble_M_rigrp_LOD3.obj"
+        }
+      ],
+      "tris": 13588
+    },
+    {
+      "type": "lod",
+      "uris": [
+        {
+          "mimeType": "application/x-abc",
+          "contentLength": 1497104,
+          "uri": "Aset_bricks_rubble_M_rigrp_LOD2.abc"
+        },
+        {
+          "mimeType": "application/x-fbx",
+          "contentLength": 695344,
+          "uri": "Aset_bricks_rubble_M_rigrp_LOD2.fbx"
+        },
+        {
+          "mimeType": "application/x-obj",
+          "contentLength": 3669984,
+          "uri": "Aset_bricks_rubble_M_rigrp_LOD2.obj"
+        }
+      ],
+      "tris": 18118
+    },
+    {
+      "type": "lod",
+      "uris": [
+        {
+          "mimeType": "application/x-abc",
+          "contentLength": 1993476,
+          "uri": "Aset_bricks_rubble_M_rigrp_LOD1.abc"
+        },
+        {
+          "mimeType": "application/x-fbx",
+          "contentLength": 910592,
+          "uri": "Aset_bricks_rubble_M_rigrp_LOD1.fbx"
+        },
+        {
+          "mimeType": "application/x-obj",
+          "contentLength": 4925918,
+          "uri": "Aset_bricks_rubble_M_rigrp_LOD1.obj"
+        }
+      ],
+      "tris": 24159
+    },
+    {
+      "type": "lod",
+      "uris": [
+        {
+          "mimeType": "application/x-abc",
+          "contentLength": 2654752,
+          "uri": "Aset_bricks_rubble_M_rigrp_LOD0.abc"
+        },
+        {
+          "mimeType": "application/x-fbx",
+          "contentLength": 1188848,
+          "uri": "Aset_bricks_rubble_M_rigrp_LOD0.fbx"
+        },
+        {
+          "mimeType": "application/x-obj",
+          "contentLength": 6607811,
+          "uri": "Aset_bricks_rubble_M_rigrp_LOD0.obj"
+        }
+      ],
+      "tris": 32213
+    },
+    {
+      "type": "lod",
+      "uris": [
+        {
+          "mimeType": "application/x-abc",
+          "contentLength": 285368,
+          "uri": "Aset_bricks_rubble_M_rigrp_LOD5.abc"
+        },
+        {
+          "mimeType": "application/x-fbx",
+          "contentLength": 149696,
+          "uri": "Aset_bricks_rubble_M_rigrp_LOD5.fbx"
+        },
+        {
+          "mimeType": "application/x-obj",
+          "contentLength": 675503,
+          "uri": "Aset_bricks_rubble_M_rigrp_LOD5.obj"
+        }
+      ],
+      "tris": 3396
+    },
+    {
+      "type": "lod",
+      "uris": [
+        {
+          "mimeType": "application/x-abc",
+          "contentLength": 565436,
+          "uri": "Aset_bricks_rubble_M_rigrp_LOD4.abc"
+        },
+        {
+          "mimeType": "application/x-fbx",
+          "contentLength": 277120,
+          "uri": "Aset_bricks_rubble_M_rigrp_LOD4.fbx"
+        },
+        {
+          "mimeType": "application/x-obj",
+          "contentLength": 1368150,
+          "uri": "Aset_bricks_rubble_M_rigrp_LOD4.obj"
+        }
+      ],
+      "tris": 6793
+    },
+    {
+      "type": "zbrush",
+      "uris": [
+        {
+          "mimeType": "application/x-ztl",
+          "contentLength": 116749938,
+          "uri": "Aset_bricks_rubble_M_rigrp_ZTool.ztl"
+        }
+      ]
+    },
+    {
+      "type": "original",
+      "uris": [
+        {
+          "mimeType": "application/x-abc",
+          "contentLength": 245982380,
+          "uri": "Aset_bricks_rubble_M_rigrp_High.abc"
+        },
+        {
+          "mimeType": "application/x-fbx",
+          "contentLength": 183299360,
+          "uri": "Aset_bricks_rubble_M_rigrp_High.fbx"
+        },
+        {
+          "mimeType": "application/x-obj",
+          "contentLength": 665414407,
+          "uri": "Aset_bricks_rubble_M_rigrp_High.obj"
+        }
+      ]
+    }
+  ],
+  "assetCategories": {
+    "3D asset": {
+      "Industrial": {
+        "Construction": {
+          "Rubble": {}
+        }
+      }
+    }
+  },
+  "semanticTags": {
+    "subject_matter": "manmade",
+    "name": "Construction Rubble assembly",
+    "latin_name": [],
+    "asset_type": "3D asset",
+    "contains": [
+      "bricks",
+      "concrete",
+      "sand",
+      "gravel"
+    ],
+    "theme": [
+      "rubble",
+      " pile",
+      " sandy",
+      " assembly"
+    ],
+    "collection": [
+      "Rubble"
+    ],
+    "environment": [
+      "industrial",
+      "urban"
+    ],
+    "season": [],
+    "interior_exterior": [
+      "exterior"
+    ],
+    "orientation": [
+      "floor"
+    ],
+    "architectural_style": {},
+    "state": [
+      "damaged",
+      "old"
+    ],
+    "color": [
+      "gray",
+      " brown"
+    ],
+    "industry": [
+      "games",
+      "archviz",
+      "VFX"
+    ],
+    "3d_mesh": "Open",
+    "resolution": 8192,
+    "locations": {
+      "Global": {
+        "Global": {}
+      }
+    },
+    "maxSize": 0.88,
+    "minSize": 0.16
+  },
+  "id": "rigrp",
+  "physicalSize": "1x1"
+}
